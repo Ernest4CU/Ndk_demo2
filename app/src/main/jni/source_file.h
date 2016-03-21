@@ -1,0 +1,8 @@
+//
+// Created by ICUI4CU on 2016/3/20.
+//
+
+#ifndef NDK_DEMO2_SOURCE_FILE_H
+#define NDK_DEMO2_SOURCE_FILE_H
+
+#endif //NDK_DEMO2_SOURCE_FILE_H
